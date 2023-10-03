@@ -17,5 +17,6 @@ public class Daspro_Jobsheet3 {
         RataRata = (NilaiTugas + NilaiKuis + NilaiUTS + NilaiUAS) / 4;
 
         System.out.println("Rata - rata = " + RataRata);
+        
     }
 }
