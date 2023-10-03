@@ -1,1 +1,0 @@
-java is /c/Program Files/Common Files/Oracle/Java/javapath/java
